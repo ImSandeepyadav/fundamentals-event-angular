@@ -1,0 +1,37 @@
+.container{
+  background-color: #75b875;
+}
+
+.hoverwell:hover {
+  background-color: #2e7575;
+  cursor: pointer;
+}
+
+.container {
+  padding-top: 10px;
+}
+
+.pointable {
+  cursor: pointer;
+}
+
+button {
+  color: rgb(107, 14, 14);
+}
+
+[hidden] {
+  display: none !important;
+}
+
+.toast-success {
+  background-color: #51a351;
+}
+.toast-error {
+  background-color: #bd362f;
+}
+.toast-info {
+  background-color: #2f96b4;
+}
+.toast-warning {
+  background-color: #f89406;
+}
